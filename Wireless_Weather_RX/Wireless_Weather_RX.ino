@@ -5,8 +5,13 @@
  * 
  * by Niyas Thalappil
  * 
+<<<<<<< HEAD
  * www.youtube.com/c/NiyasThalappil
  * NiyazThalappil@gmail.com
+=======
+ *
+ * Niyzmuahmmed@gmail.com
+>>>>>>> 550a33edbff53cd885c6b22f0bc88abdea4d099d
  *
  */
 
